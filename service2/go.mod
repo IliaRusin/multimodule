@@ -1,4 +1,4 @@
-module github.com/IliaRusin/multimodule/service2
+module service2
 
 go 1.13
 

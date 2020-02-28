@@ -1,0 +1,3 @@
+github.com/IliaRusin/multimodule/libs/lib1 v0.0.0-20200228133552-40bcdfb15f46/go.mod h1:n5nmRu1fcCS66MkNp8wIKkW+YxUB1oi/93oNjBvC4DM=
+github.com/IliaRusin/multimodule/libs/lib1 v0.0.0-20200228134313-fcf3a3e10b9c/go.mod h1:n5nmRu1fcCS66MkNp8wIKkW+YxUB1oi/93oNjBvC4DM=
+github.com/IliaRusin/multimodule/libs/lib2 v0.0.0-20200228134313-fcf3a3e10b9c/go.mod h1:JDRZ7+7KLvRdPi08cO8k0wVtlDVWFtvM41UFZHMd6jA=
