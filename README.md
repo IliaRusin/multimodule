@@ -1,2 +1,3 @@
 # multimodule
-Multi-module repo sample
+
+Sample Go multi-module repository

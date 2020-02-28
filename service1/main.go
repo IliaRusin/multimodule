@@ -1,5 +1,10 @@
-package service1
+package main
 
-func Service1() string {
-	return "Service1"
+import (
+	"fmt"
+	"github.com/IliaRusin/multimodule/service1/logics"
+)
+
+func main() {
+	fmt.Print(logics.Service1())
 }
