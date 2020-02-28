@@ -1,8 +1,5 @@
-github.com/IliaRusin/multimodule/libs/lib1 v0.0.0-20200228133552-40bcdfb15f46 h1:fBSGaQn4s7QBg+Bir13yURzSxw4WB3dacOHHwRH1tBo=
 github.com/IliaRusin/multimodule/libs/lib1 v0.0.0-20200228133552-40bcdfb15f46/go.mod h1:n5nmRu1fcCS66MkNp8wIKkW+YxUB1oi/93oNjBvC4DM=
 github.com/IliaRusin/multimodule/libs/lib1 v0.0.0-20200228134313-fcf3a3e10b9c h1:xV6goFh6e1HchQ5IAgLk0mP0kg5mwITW+LbjiihQt1c=
 github.com/IliaRusin/multimodule/libs/lib1 v0.0.0-20200228134313-fcf3a3e10b9c/go.mod h1:n5nmRu1fcCS66MkNp8wIKkW+YxUB1oi/93oNjBvC4DM=
-github.com/IliaRusin/multimodule/libs/lib2 v0.0.0-20200228133552-40bcdfb15f46 h1:51VWni2dYOL2Fvxi5gcgIlAj8KjCxGSm1noxDARHtaI=
-github.com/IliaRusin/multimodule/libs/lib2 v0.0.0-20200228133552-40bcdfb15f46/go.mod h1:y8vKIpPs9mrmwXTTs/otZHyhY2u34dBllqjkklKgTuQ=
 github.com/IliaRusin/multimodule/libs/lib2 v0.0.0-20200228134313-fcf3a3e10b9c h1:c8hNyj4usEZa4yJmzdnRxTEtEoRCWIauhJRqlofKZv0=
 github.com/IliaRusin/multimodule/libs/lib2 v0.0.0-20200228134313-fcf3a3e10b9c/go.mod h1:JDRZ7+7KLvRdPi08cO8k0wVtlDVWFtvM41UFZHMd6jA=
